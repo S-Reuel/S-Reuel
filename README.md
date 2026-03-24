@@ -10,7 +10,7 @@
   
 
 ### 💡 Sobre mim 💡
-- 🔭 Atualmente, estou trabalhando no **desenvolvimento do site FabLab UNESP-Bauru, uma plataforma para aluguel de máquinas 3D e CNC, inscrição em eventos e mentorias, além da publicação de notícias sobre inovação e tecnologia no laboratório FabLab da UNESP-Bauru. 🚀**
+- 🔭 Atualmente, estou trabalhando no **desenvolvimento de um site com a finalidade de administrar o aluguel de livros. 🚀**
 - 🌱 Aprendendo **Ruby e Ruby on Rails**
 
 ---
