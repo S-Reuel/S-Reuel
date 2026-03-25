@@ -66,10 +66,10 @@
 
 ### 🌎 Onde me encontrar  
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=reuelsilva3110@gmail.com&su=Assunto%20da%20Mensagem&body=Olá,%20escreva%20sua%20mensagem%20aqui!" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=reuelsilva3110@gmail.com&su=Assunto%20da%20Mensagem&body=Olá,%20escreva%20sua%20mensagem%20aqui!" target="_blank" rel="noopener noreferrer">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Abrir Gmail">
 </a>
-<a href="https://www.linkedin.com/in/silas-reuel-da-silva/" target="_blank">
+<a href="https://www.linkedin.com/in/silas-reuel-da-silva/" target="_blank" rel="noopener noreferrer">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin">
 </a>
 
