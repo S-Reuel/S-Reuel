@@ -83,4 +83,4 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=S-Reuel&theme=gotham">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=S-Reuel&theme=great_gatsby">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=S-Reuel&theme=2077">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=S-Reuel&theme=ocean_dark&utcOffset=8">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=S-Reuel&theme=ocean_dark&utcOffset=3">
