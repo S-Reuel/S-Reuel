@@ -10,6 +10,7 @@
   
 
 ### 💡 Sobre mim 💡
+- Cursando Banco de Dados na Fatec Bauru
 - 🔭 Atualmente, estou trabalhando no **desenvolvimento de um site com a finalidade de administrar o aluguel de livros. 🚀**
 - 🌱 Aprendendo **Ruby e Ruby on Rails**
 
