@@ -78,9 +78,9 @@
 ---
 
 <div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=S-Reuel&theme=ocean_dark&utcOffset=3"><br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=S-Reuel&theme=great_gatsby">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=S-Reuel&theme=2077">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=S-Reuel&theme=aura_dark">
   <img src=https://streak-stats.demolab.com?user=S-Reuel&locale=pt-br&hide_title=false&mode=weekly&theme=git_dark&hide_border=false&border_radius=5&custom_title=SILAS%20REUEL%20DA%20SILVA>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=S-Reuel&theme=gotham">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=S-Reuel&theme=great_gatsby">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=S-Reuel&theme=2077">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=S-Reuel&theme=ocean_dark&utcOffset=3">
