@@ -65,7 +65,7 @@
 
 ---
 
-### 🌎 Onde me encontrar  
+### 🌎 Contato 
 <div align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=reuelsilva3110@gmail.com&su=Assunto%20da%20Mensagem&body=Olá,%20escreva%20sua%20mensagem%20aqui!" target="blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Abrir Gmail" width="60px">
