@@ -9,10 +9,40 @@
 <p/>
   
 
-### 💡 Sobre mim 💡
-- Cursando Banco de Dados na Fatec Bauru
-- 🔭 Atualmente, estou trabalhando no **desenvolvimento de um site com a finalidade de administrar o aluguel de livros. 🚀**
-- 🌱 Aprendendo **Ruby e Ruby on Rails**
+### 💡 Sobre mim 
+- Cursando Banco de Dados na **Faculdade de Tecnologia de Bauru (Fatec Bauru)**
+- Ensino Médio Técnico em Informática completo no **Colégio Técnico Industrial Prof. Isaac Portal Roldán**
+- Atualmente, estou trabalhando no desenvolvimento de um **site para administrar o aluguel de livros**
+- Aprendendo **Ruby e Ruby on Rails**
+
+---
+
+### 🏆 Projetos em destaque
+**CODRA (Trabalho de Conclusão de Curso)**
+- Plataforma para gestão de projetos acadêmicos baseada em sprints e tarefas
+- Integração com GitHub via webhooks para monitoramento automático de atividades
+- Proposta para melhorar o acompanhamento e a organização dos projetos dos alunos
+- Em avaliação para adoção pelo corpo docente do CTI
+- Código privado
+
+**Sistema de reconhecimento de leucócitos**
+- Projeto de visão computacional desenvolvido em equipe
+- Classificação de imagens utilizando Python
+- Menção honrosa pelo **Conselho Regional dos Técnicos Industriais (CRT-SP)**
+- Código privado (projeto acadêmico)
+
+**Plataforma FabLab (Unesp Bauru)**
+- Desenvolvimento de sistema web para gestão e documentação de laboratório
+- Foco em usabilidade e organização de processos internos
+- Menção honrosa pela **Universidade Estadual Paulista Unesp**
+- Acesse: https://fablabcitebauru.com.br/
+
+---
+
+### 🥇 Conquistas
+
+- **🥈 Medalha de Prata na Olimpíada Brasileira de Tecnologia (OBT) – 2023**
+  - Competição nacional voltada à resolução de problemas tecnológicos
 
 ---
 
