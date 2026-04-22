@@ -20,7 +20,7 @@
 ### 🏆 Projetos em destaque
 **CODRA (Trabalho de Conclusão de Curso)**
 - Plataforma para gestão de projetos acadêmicos baseada em sprints e tarefas
-- Integração com GitHub via webhooks para monitoramento automático de atividades
+- Integração com GitHub via webhooks para monitoramento de atividades
 - Proposta para melhorar o acompanhamento e a organização dos projetos dos alunos
 - Em avaliação para adoção pelo corpo docente do CTI
 - Código privado
@@ -34,7 +34,7 @@
 **Plataforma FabLab (Unesp Bauru)**
 - Desenvolvimento de sistema web para gestão e documentação de laboratório
 - Foco em usabilidade e organização de processos internos
-- Menção honrosa pela **Universidade Estadual Paulista Unesp**
+- Menção honrosa pela **Universidade Estadual Paulista (Unesp)**
 - Acesse: https://fablabcitebauru.com.br/
 
 ---
