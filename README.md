@@ -41,7 +41,7 @@
 
 ### 🥇 Conquistas
 
-- **🥈 Medalha de Prata na Olimpíada Brasileira de Tecnologia (OBT) – 2023**
+- **Medalha de Prata na Olimpíada Brasileira de Tecnologia (OBT) – 2023**
   - Competição nacional voltada à resolução de problemas tecnológicos
 
 ---
