@@ -4,22 +4,22 @@
 
 <h1 align="center">Olá! 👋 Seja bem vindo(a)</h1>
 
-<p>
+<!--<p>
   <img src="https://komarev.com/ghpvc/?username=S-Reuel&label=Visualizações%20de%20perfil&color=red">
-<p/>
+<p/>-->
   
 
 ### 💡 Sobre mim 
 - Cursando Banco de Dados na **Faculdade de Tecnologia de Bauru (Fatec Bauru)**
 - Ensino Médio Técnico em Informática completo no **Colégio Técnico Industrial Prof. Isaac Portal Roldán (CTI Bauru)**
-- Atualmente, estou trabalhando no desenvolvimento de um **site para administrar o aluguel de livros**
+- Atualmente estou trabalhando no desenvolvimento de um **site para administrar o aluguel de livros**
 - Aprendendo **Ruby e Ruby on Rails**
 
 ---
 
 ### 🏆 Projetos em destaque
 **CODRA (Trabalho de Conclusão de Curso)**
-- Plataforma para gestão de projetos acadêmicos baseada em sprints e tarefas
+- Plataforma para gestão de projetos acadêmicos baseada em sprints e tasks
 - Integração com GitHub via webhooks para monitoramento de atividades
 - Proposta para melhorar o acompanhamento e a organização dos projetos dos alunos
 - Em avaliação para adoção pelo corpo docente do CTI
@@ -28,7 +28,7 @@
 **Sistema de reconhecimento de leucócitos**
 - Projeto de visão computacional desenvolvido em equipe
 - Classificação de imagens utilizando Python
-- Menção honrosa pelo **Conselho Regional dos Técnicos Industriais (CRT-SP)**
+- Menção honrosa pelo **Conselho Regional dos Técnicos Industriais de São Paulo (CRT-SP)**
 - Código privado (projeto acadêmico)
 
 **Plataforma FabLab (Unesp Bauru)**
