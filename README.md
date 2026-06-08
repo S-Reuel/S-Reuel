@@ -13,7 +13,7 @@
 - Cursando Banco de Dados na **Faculdade de Tecnologia de Bauru (Fatec Bauru)**
 - Ensino Médio Técnico em Informática completo no **Colégio Técnico Industrial Prof. Isaac Portal Roldán (CTI Bauru)**
 - Atualmente estou trabalhando no desenvolvimento de um **site para administrar o aluguel de livros**
-- Aprendendo **Ruby e Ruby on Rails**
+- Aperfeiçoando conhecimento em **Ruby on Rails**
 
 ---
 
